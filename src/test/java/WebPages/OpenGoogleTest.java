@@ -1,4 +1,4 @@
-//import jdk.javadoc.internal.doclets.toolkit.util.DocFile;
+package WebPages;//import jdk.javadoc.internal.doclets.toolkit.util.DocFile;
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.*;
 import org.openqa.selenium.Point;
